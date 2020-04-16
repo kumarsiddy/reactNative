@@ -9,7 +9,7 @@ export default function App() {
 
     return (
         <View style={styles.container}>
-            <Text>Hello Siddhartha!!</Text>
+            <Text>Hello Purushotam!!</Text>
             <Button title={'Button'} onPress={onButtonPressed}/>
         </View>
     );
